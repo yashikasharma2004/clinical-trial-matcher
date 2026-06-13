@@ -100,8 +100,7 @@ BioBERT is pre-trained on PubMed abstracts and clinical text, making it signific
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/clinical-trial-matcher.git
-cd clinical-trial-matcher
+git clone https://github.com/yashikasharma2004/clinical-trial-matcher.git
 ```
 
 ### 2. Install dependencies
