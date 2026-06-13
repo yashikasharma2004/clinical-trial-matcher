@@ -1,0 +1,51 @@
+trial_id,title,condition,min_age,max_age,gender,eligibility,source_query,normalized_condition
+NCT02092597,Safety Evaluation of Adverse Reactions in Diabetes,Type 2 Diabetes Mellitus,35,70,All,any,diabetes,diabetes
+NCT05083013,Diabetes In Relation to Hospitalized COVID-19 Patents At Assiut University Hospital,Diabetes Mellitus,18,80,All,any,diabetes,diabetes
+NCT05257460,Closing the Loop in Adults With Type 1 Diabetes Under Free Living Conditions (AP@Home04_Phase 4),Type 1 Diabetes,18,80,All,any,diabetes,diabetes
+NCT01212120,The Foot in Your Nose Study: Links Between Nasal Staphylococcus Aureus Colonies and Diabetic Foot Lesion Infections,Diabetic Foot,18,80,All,any,diabetes,diabetes
+NCT05925920,Study of Subcutaneously Administered ENT-03 for the Treatment of Obesity and Diabetes,Obesity,18,70,All,any,diabetes,diabetes
+NCT01182480,Chronic Care Management/Patient Relationship Management Proof of Concept,Diabetes Mellitus,18,76,All,any,diabetes,diabetes
+NCT00813280,Barriers to the Implementation of Complete Insulin Order Sets,Hyperglycemia,18,80,All,any,diabetes,diabetes
+NCT05410080,the Efficacy of Fetal Arterial and Venous Doppler Indices in Predicting Perinatal Outcome,Gestational Diabetes,18,35,Female,any,diabetes,diabetes
+NCT00046462,Determine Whether Glycemic Control is Different Between Lantus & a 3rd Oral Agent When Failure With Other Treatment,Diabetes Mellitus,18,79,All,any,diabetes,diabetes
+NCT00700362,Insulin Infusion and Infectious Diabetic Foot Ulcers (IIIFU),Diabetes Mellitus,18,80,All,any,diabetes,diabetes
+NCT01556997,Perindopril Amlodipine for the Treatment of Hypertension,Essential Hypertension,18,75,All,any,hypertension,hypertension
+NCT01033513,SOS Nutrition Project,Hypertension,60,80,All,any,hypertension,hypertension
+NCT00662480,Randomized Preventive Vascular Screening Trial of 65-74 Year Old Men in the Central Region of Denmark,Abdominal Aortic Aneurysms,65,74,Male,any,hypertension,hypertension
+NCT06407973,A Clinical Trial Comparing the OMNI Surgical System to Standard Medical Treatment in Patients With Primary Open Angle Glaucoma,Primary Open Angle Glaucoma,45,80,All,any,hypertension,hypertension
+NCT06195969,Instant Message-guided Hypertension Management Intervention Among Stroke Survivors,Stroke,18,80,All,any,hypertension,hypertension
+NCT02857335,Neurocognitive Outcome in Children Who Suffered From Idiopathic Increased Intracranial Hypertension (IIH),"Prospective Study , Questionaires",8,17,All,any,hypertension,hypertension
+NCT02759276,"Microcirculation and Inflammatory Markers in Patients With Resistant, Stages 1/2 Hypertension and Normal Blood Pressure",High Blood Pressure,27,65,All,any,hypertension,hypertension
+NCT06528418,Identification of Multiple Pulmonary Diseases Using Volatile Organic Compounds Biomarkers in Human Exhaled Breath,Lung Cancer,18,100,All,any,hypertension,hypertension
+NCT03662620,Clinical Trial to Compare the Safety and Pharmacokinetics of YH22162 in Healthy Volunteers,Hypertension,19,55,Male,any,hypertension,hypertension
+NCT01819220,"Randomized, Open Labeled Clinical Trial to Compare the Effectiveness of Amlodipine/Valsartan vs Hydrochlorothiazide/Telmisartan on Glucose Tolerance in Patients With Hypertension With Metabolic Syndrome",Hypertension,20,80,All,any,hypertension,hypertension
+NCT05608876,A Clinical Study to Investigate the Efficacy of Tigilanol Tiglate Directly in Head and Neck Cancer,Head and Neck Cancer,18,80,All,any,cancer,cancer
+NCT00751140,Merits of Performing a Modified Template Retroperitoneal Lymph Node Dissection,Cancer of the Urinary Tract,18,80,All,any,cancer,cancer
+NCT05170789,"Elotuzumab, Selinexor, and Dexamethasone for Relapsed Refractory Multiple Myeloma",Relapsed Multiple Myeloma,18,80,All,any,cancer,cancer
+NCT02111889,Tumor Kinase Inhibitor Concentrations Measured by PET,Disseminated Malignant Neoplasm,18,80,All,any,cancer,cancer
+NCT05005468,A Phase II Trial of Camrelizumab Combined With Famitinib for Adjuvant Treatment of Stage II-IIIA NSCLC.,NSCLC,18,75,All,any,cancer,cancer
+NCT06443268,Cerebrovascular Disease: Quality of Life (CODE: QoL),Quality of Life,18,80,All,any,cancer,cancer
+NCT00006450,Phenylbutyrate to Treat Children With Progressive or Recurrent Brain Tumors,Brain Tumor,18,80,All,any,cancer,cancer
+NCT05261750,Autologous Dendritic Cells and Allogenic Dendritic Secretomes for Patients With Advanced Nasopharyngeal Cancer,Nasopharyngeal Cancer,18,80,All,any,cancer,cancer
+NCT03843450,Culture System for Isolating Circulating Tumor Cells,Early Detection of Cancer,20,70,All,any,cancer,cancer
+NCT06540950,Efficacy and Safety of Concurrent Chemoradiotherapy With Oral Vinorelbine in Patients With Non-small Cell Lung Cancer,Vinorelbine,40,80,All,any,cancer,cancer
+NCT00595491,Pilot Study to Identify the Mediators and Inflammatory Cell Surface Receptors Involved in Allergic Airway Inflammation,Asthma,18,50,All,any,asthma,asthma
+NCT06869382,ICS+LABA Vs. ICS+LABA+Omalizumab: Impact on Asthma Control and Gene Expression,Asthma Patients,18,80,All,any,asthma,asthma
+NCT00127062,Health Effects of Diesel Exhaust in Asthmatic Patients: A Real-world Study in a London Street,Asthma,18,55,All,any,asthma,asthma
+NCT04349735,Comparison of 3 Methods to Assess Inhalation Technique,Asthma,18,85,All,any,asthma,asthma
+NCT06528418,Identification of Multiple Pulmonary Diseases Using Volatile Organic Compounds Biomarkers in Human Exhaled Breath,Lung Cancer,18,100,All,any,asthma,asthma
+NCT01000597,"Study to Look at and Compare How Inhaled and Intravenous Fluticasone Furoate is Processed by the Body in Healthy Caucasian, Japanese, Korean and Chinese Subjects",Asthma,20,64,All,any,asthma,asthma
+NCT02163096,A Study to Assess Benign Joint Hypermobility Syndrome in Children With a History of Wheezing or Asthma,Benign Joint Hypermobility Syndrome,6,16,All,any,asthma,asthma
+NCT05006703,Breathing Retraining for Asthma Trial of Home Exercises for Teenagers,Adolescent Behavior,12,17,All,any,asthma,asthma
+NCT00023127,Reducing Indoor Allergen Exposures in Northern Manhattan and the South Bronx,Asthma,6,18,All,any,asthma,asthma
+NCT02948738,Asthma Inpatient Research on Education,Asthmatic Attack,2,16,All,any,asthma,asthma
+NCT06906874,Activated Charcoal Use in Chronic Kidney Disease Patients,End Stage Renal Disease (ESRD),18,80,All,any,kidney disease,kidney disease
+NCT05497297,A Study to Evaluate the Pharmacokinetics of HSK7653 in Subjects With Renal Impairment,Renal Impairment,18,79,All,any,kidney disease,kidney disease
+NCT02299310,Effect of Valsartan vs Perindopril on HOMA-IR Index in Patients With Chronic Kidney Disease,Chronic Kidney Disease,18,80,All,any,kidney disease,kidney disease
+NCT03257410,Theranova 400 Dialyzer In End Stage Renal Disease (ESRD) Patients,End Stage Renal Disease,18,80,All,any,kidney disease,kidney disease
+NCT00638482,Dose-Dependent Effect of Thiazide in Dent's Disease Hypercalciuria,Dent's Disease,3,18,Male,any,kidney disease,kidney disease
+NCT04916080,N-acetyl Cysteine: the Effectiveness and Safety in a Cohort of Pediatric Patients With Chronic Kidney Disease,Chronic Kidney Diseases,18,18,All,any,kidney disease,kidney disease
+NCT07531173,Serotonin Norepinephrine Reuptake Inhibitors and the Risk of Serious Adverse Events,Chronic Kidney Disease,66,80,All,any,kidney disease,kidney disease
+NCT05176483,Study of Zanzalintinib in Combination With Immuno-Oncology Agents in Participants With Solid Tumors,Renal Cell Carcinoma (RCC),18,80,All,any,kidney disease,kidney disease
+NCT06960135,Trifecta Achievement in Open and Laparoscopic Partial Nephrectomy,Trifecta Achievement,18,80,All,any,kidney disease,kidney disease
+NCT02595918,Nivolumab in Treating Patients With High-Risk Kidney Cancer Before Surgery,Clear Cell Renal Cell Carcinoma,18,80,All,any,kidney disease,kidney disease

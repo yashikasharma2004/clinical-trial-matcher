@@ -1,0 +1,18 @@
+{
+  "total_patients": 30,
+  "total_trials": 50,
+  "conditions": [
+    "diabetes",
+    "hypertension",
+    "asthma",
+    "cancer",
+    "kidney disease"
+  ],
+  "precision_at_1": 0.3,
+  "precision_at_3": 0.322,
+  "precision_at_5": 0.307,
+  "best_f1": 0.87,
+  "best_threshold": 0.3,
+  "best_precision": 0.769,
+  "best_recall": 1.0
+}
