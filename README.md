@@ -1,4 +1,3 @@
-# clinical-trial-matcher
 # 🏥 clinical-trial-matcher
 
 > Intelligent patient-to-clinical-trial matching using BioBERT embeddings + TF-IDF hybrid retrieval on real ClinicalTrials.gov data.
@@ -8,6 +7,7 @@
 ![Precision@3](https://img.shields.io/badge/Precision%40K-90%25-brightgreen)
 ![F1](https://img.shields.io/badge/F1%20Score-0.87-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-blue)
 
 ---
 
@@ -167,6 +167,16 @@ Precision@K is computed by ranking all 50 trials for each patient using only mod
 
 ---
 
+
+
+
+## 🧪 Evaluation Methodology
+
+- **No metadata leakage:** Trial condition field was never used during scoring
+- **Explicit labeling:** Each patient-trial pair manually labeled as relevant/non-relevant
+- **Threshold sweep:** F1 computed across 0.1–0.9 similarity thresholds; optimal at 0.5
+- **Hard filters first:** Age + gender constraints applied before semantic scoring
+
 ## 🔮 Future Work
 
 - [ ] Expand to 500+ trials across 20+ conditions
@@ -187,3 +197,15 @@ MIT License — free to use, modify, and distribute.
 
 Built as a portfolio project demonstrating applied NLP in healthcare.  
 Feel free to open issues or PRs!
+
+
+
+## 🚀 Future Work
+
+- [ ] Expand to 500+ trials across 20+ conditions
+- [ ] Parse full eligibility criteria text (inclusion/exclusion)
+- [ ] Add Gradio/Streamlit demo for interactive use
+- [ ] Fine-tune BioBERT on clinical trial matching pairs
+- [ ] Deploy as FastAPI microservice
+- [ ] Add FAISS index for scalable retrieval (10,000+ trials)
+- [ ] Multi-condition patient support (comorbidities matching)
