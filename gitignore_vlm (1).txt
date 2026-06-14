@@ -1,0 +1,61 @@
+# ============================================================
+# .gitignore — VLM Hallucination Benchmark
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights & large files (don't push these to GitHub!)
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.bin
+*.safetensors
+models/
+checkpoints/
+weights/
+
+# NOTE: *.csv and *.json are NOT ignored here
+# because results_summary.csv, blip2_results.json, final_results.json
+# are important result files and should stay on GitHub!
+
+# Logs
+logs/
+*.log
+runs/
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# API keys / secrets — NEVER push these
+secrets.json
+config_local.py
